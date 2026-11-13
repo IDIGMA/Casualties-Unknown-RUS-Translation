@@ -1,4 +1,4 @@
-# Casualties-Unknown-RUS-Translation-
+# Casualties: Unknown (RUS-Translation) (В РАЗРАБОТКЕ!)
 Любительский перевод игры Casualties: Unknown на русский язык. ЕЩЕ В РАЗРАБОТКЕ!! (если это хоть кто-то будет качать)
 
 Инструкция по установке.
